@@ -1,0 +1,4 @@
+selenium==4.10.0
+requests==2.31.0
+tkinter==0.1.0  # tkinter 是 Python 内置库，不需要额外安装，留作标记
+ttkbootstrap==1.10.0
