@@ -10,7 +10,7 @@
 
 ## 安装步骤
 
-1. **克隆项目
+1. **克隆项目**
 git clone https://github.com/yourusername/bilibili-cover-downloader.git
 cd bilibili-cover-downloader
    
